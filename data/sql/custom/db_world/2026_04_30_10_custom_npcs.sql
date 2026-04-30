@@ -69,4 +69,4 @@ INSERT INTO `creature_template_model` (
     `CreatureID`, `Idx`, `CreatureDisplayID`, `DisplayScale`, `Probability`, `VerifiedBuild`
 )
 VALUES
-    (400104, 0, 5567, 1, 1, 0);
+    (400104, 0, 25947, 1, 1, 0);
